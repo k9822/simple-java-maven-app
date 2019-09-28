@@ -15,13 +15,11 @@ public class App
     }
 
     private final String getMessage() {
-<<<<<<< HEAD
         System.out.println("hi");
-=======
+
         System.out.println("adadasad");
         System.out.println("Hello");
         System.out.print("das");
->>>>>>> testing
         return message;
     }
 
